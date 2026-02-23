@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Archit Verma
 
-<!--
-**Architverma20/Architverma20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI/ML Enthusiast | 💻 Passionate Coder | 📚 Lifelong Learner  
 
-Here are some ideas to get you started:
+I’m deeply interested in Artificial Intelligence and Machine Learning, and I enjoy building intelligent systems that solve real-world problems. I believe in continuous learning and constantly explore new tools, frameworks, and ideas in the AI space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**💻 Languages:** Python, C++, SQL  
+
+**🧠 AI/ML:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV, Hugging Face  
+
+**⚙️ Tools:** Git, Linux, Docker, Jupyter Notebook  
+
+## 🌱 Currently Exploring
+- 🔥 Generative AI  
+- 🧠 Large Language Models (LLMs)  
+- ⚡ Model Optimization  
+- ☁️ MLOps Fundamentals  
+
+## 🎯 Interests
+Machine Learning, Deep Learning, Computer Vision, NLP, and AI-powered applications.
+
+## 📫 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/archit-verma-a66680276/  
+- 📧 Email: architv590@gmail.com  
+
+---
+
+⭐ Code. Learn. Build. Repeat.
