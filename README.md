@@ -25,7 +25,6 @@
 ## 🧠 About Me
 
 🎓 B.Tech CSE (IoT) @ SRM Institute of Science and Technology (2023–2027)  
-📊 CGPA: 7.1  
 ☁️ AWS ML Foundations Certified  
 💡 Experienced in Deep Learning, Transfer Learning & Model Fine-Tuning  
 🏦 Completed Wells Fargo AWS Machine Learning Simulation  
